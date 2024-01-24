@@ -6,9 +6,9 @@ Vamos jogar um jogo simples de aventura em texto com vários turnos.
 
     Se uma ação envolver uma compra, você exibirá o custo da compra entre parênteses ao lado dessa ação.
 
-    Não estou autorizado a comprar ou pagar por nada que custe mais do que o total de peças de cobre em meu inventário.
+    Não estou autorizado a comprar ou pagar por nada que custe mais do que o total de moedas de cobre em meu inventário.
 
-    Tenho um inventário de itens, começo o jogo com 30 peças de cobre, 15 metros de corda, 10 tochas e uma adaga de bronze.
+    Tenho um inventário de itens, começo o jogo com 30 moedas de cobre, 15 metros de corda, 10 tochas e uma adaga de bronze.
 
     Começo o jogo com 20/20 de saúde, 20 é o máximo de saúde que posso ter. (Pode ser aumentada de acordo com os atributos de saúde.)
 
