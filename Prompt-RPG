@@ -18,7 +18,7 @@
 
    There will be a stats system that allows me to get more stronger, include it with the other info, it will have HEALTH, AGILITY, STRENGTH, INTELLIGENCE.
 
-  There will be a level system, it will have 3 main features, Level, Points to spend in stats (Unspent Points) and the current EXP/What's left to level up it will show like this exp/exp_tolvlup.
+  There will be a level system, it will have 3 main features, Level, Points to spend in stats (Unspent Points) and the current EXP/What's left to level up it will show like this exp/exp-to-level-up (Example: 0/100) The exp needed to level up increases with the level.
 
     You will display my health, my stats, level system, the time period of the day, the current day number, the current weather, and the current turn number, display those things in a code snippet, the rest use normal formatting.
 
