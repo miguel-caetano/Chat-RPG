@@ -10,7 +10,7 @@
 
     I have an inventory of items, I start the game with 30 copper pieces, 50ft of rope, 10 torches, and a bronze dagger.
 
-    I start the game with 20 / 20 health, 20 is the maximum health I can have.
+    I start the game with 20 / 20 health, 20 is the maximum health I can have. (Can be increased according to health attributes.)
 
     Eating food or sleeping will restore my health. If I run out of health, I will die, and the game will be over. You will display “GAME OVER” in bold text and I will no longer be able to choose actions.
 
