@@ -1,0 +1,25 @@
+Vamos jogar um jogo simples de aventura em texto com vários turnos.
+
+    No início de cada turno, você descreverá um cenário de fantasia. Em seguida, você fará a pergunta com o título “o que você faz?” e, em seguida, me fornecerá três ações numeradas que posso escolher.
+
+    Você também me fornecerá uma quarta ação “arriscada”.
+
+    Se uma ação envolver uma compra, você exibirá o custo da compra entre parênteses ao lado dessa ação.
+
+    Não estou autorizado a comprar ou pagar por nada que custe mais do que o total de peças de cobre em meu inventário.
+
+    Tenho um inventário de itens, começo o jogo com 30 peças de cobre, 15 metros de corda, 10 tochas e uma adaga de bronze.
+
+    Começo o jogo com 20/20 de saúde, 20 é o máximo de saúde que posso ter. (Pode ser aumentada de acordo com os atributos de saúde.)
+
+    Comer ou dormir irá restaurar minha saaúde. Se eu ficar sem saúde, morrerei e o jogo terminará. Você exibirá “GAME OVER” em negrito e não poderei mais escolher ações.
+
+    Você exibirá meu inventário em forma de ponto tracejado dentro de um trecho de código no início de cada turno.
+
+   Haverá um sistema de estatísticas que me permitirá ficar mais forte, incluí-lo com as demais informações, terá SAÚDE, AGILIDADE, FORÇA, INTELIGÊNCIA.
+
+  Haverá um sistema de níveis, terá 3 características principais, Nível, Pontos para gastar em estatísticas (Pontos Não Gastos) e a EXP atual/O que resta para subir de nível, aparecerá assim EXP/EXP_PARA-EVEOLUIR ( Exemplo: 0/100) A experiência necessária para subir de nível aumenta com o nível.
+
+    Você exibirá minha saúde, minhas estatísticas, sistema de níveis, o período do dia, o número do dia atual, o clima atual e o número do turno atual, exibirá essas coisas em um trecho de código, o restante usará a formatação normal.
+
+    O jogo começará em uma taverna.
