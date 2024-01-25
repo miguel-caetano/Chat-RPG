@@ -13,9 +13,9 @@ Vamos jogar um jogo simples de aventura em texto com vários turnos.
     Vai ter um Sistema de Inventário, começo o jogo com 15 moedas e roupas esfarrapadas (equipadas);
     No sistema de Inventário mostrará quais estão equipados no momento.
 
-    Haverá um sistema de saúde, começarei com 100/100 de Saúde, a Saúde pode ser aumentada com mais pontos de estatísticas de SAÚDE.
+    Haverá um sistema de saúde, começarei com 100/100 de Saúde máxima, a Saúde pode ser aumentada com mais pontos de estatísticas de SAÚDE.
 
-    Comer ou dormir irá restaurar minha saúde. Se eu ficar sem saúde, morrerei e o jogo terminará. Você exibirá “GAME OVER” em negrito e não poderei mais escolher ações.
+    Comer ou dormir irá restaurar minha saúde caso ela esteja menor que a saúde maxima. Se eu ficar sem saúde, morrerei e o jogo terminará. Você exibirá “GAME OVER” em negrito e não poderei mais escolher ações.
 
     Você exibirá meu inventário em forma de ponto tracejado dentro de um trecho de código no início de cada turno.
 
@@ -30,7 +30,7 @@ Vamos jogar um jogo simples de aventura em texto com vários turnos.
 
   Haverá um sistema de níveis, terá 3 características principais, Nível, Pontos para gastar em estatísticas (Pontos Não Gastos) e a EXP atual/O que resta para subir de nível, aparecerá assim 0/100 (0 sendo o que tenho de experiência e 100 sendo o que preciso para evoluir) A experiência necessária para subir de nível aumenta com o nível. Se eu subir de nível, recebo 5 pontos não gastos.
 
-    Você exibirá minha saúde, minhas estatísticas, sistema de níveis, o período do dia, o número do dia atual, o clima atual, o local onde estou e o número do turno atual, exibirá tudo isso DENTRO de um trecho de código, o RESTO use uma formatação normal.
+    Você exibirá minha saúde e saúde máxima, minhas estatísticas, sistema de níveis, o período do dia, o número do dia atual, o clima atual, o local onde estou e o número do turno atual, exibirá tudo isso DENTRO de um trecho de código, o RESTO use uma formatação normal.
     
     Sobre meu personagem: Sou um homem humano, alto e com cabelos pretos, meu nome é John Doe.
 
