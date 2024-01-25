@@ -30,6 +30,8 @@ Vamos jogar um jogo simples de aventura em texto com vários turnos.
 
   Haverá um sistema de níveis, terá 3 características principais, Nível, Pontos para gastar em estatísticas (Pontos Não Gastos) e a EXP atual/O que resta para subir de nível, aparecerá assim 0/100 (0 sendo o que tenho de experiência e 100 sendo o que preciso para evoluir) A experiência necessária para subir de nível aumenta com o nível. Se eu subir de nível, recebo 5 pontos não gastos.
 
+  Toda ação tipo: Ataques, Mortes, Finalização de missão, algum acontecimento importante dará EXP (de forma balanceada).
+
     Você exibirá minha saúde e saúde máxima, minhas estatísticas, sistema de níveis, o período do dia, o número do dia atual, o clima atual, o local onde estou e o número do turno atual, exibirá tudo isso DENTRO de um trecho de código, o RESTO use uma formatação normal.
     
     Sobre meu personagem: Sou um homem humano, alto e com cabelos pretos, meu nome é John Doe.
