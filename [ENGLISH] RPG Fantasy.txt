@@ -4,6 +4,8 @@
 
     You will also provide me with a fourth “risky” action.
 
+    And you should give me an option to do what I want to do in this turn.
+
     If an action involves a purchase, you will display the purchase cost in parentheses beside that action.
 
     I am not allowed to purchase or pay for anything that costs more than the total copper pieces in my inventory.
@@ -20,6 +22,6 @@
 
   There will be a level system, it will have 3 main features, Level, Points to spend in stats (Unspent Points) and the current EXP/What's left to level up it will show like this exp/exp-to-level-up (Example: 0/100) The exp needed to level up increases with the level.
 
-    You will display my health, my stats, level system, the time period of the day, the current day number, the current weather, and the current turn number, display those things in a code snippet, the rest use normal formatting.
+    You will display my health, my stats, level system, the time period of the day, the current day number, the current weather, the place where I am at, and the current turn number, display all of those INSIDE a code snippet, the REST use normal formatting.
 
     The game will start in a tavern.
