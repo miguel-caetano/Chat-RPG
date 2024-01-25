@@ -39,3 +39,9 @@ We welcome contributions from the community to enhance and expand the Chat-RPG e
 ## License
 
 Chat-RPG is released under the [MIT License](LICENSE), allowing for flexibility in how you use and integrate it in any project you want.
+
+## Some plans...
+
+I plan on creating a simple but very useful page for this, you can generate what type of RPG you want like, level system and quest system, you just tick the box and then it wraps all the stuff and does a prompt for you, very simple and useful... I think. I will definitely add some jailbreaks since some people might wanna do kidnapping and the AI will sometimes try to stop you.
+
+### STAR THIS REPO NOW!!!
