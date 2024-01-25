@@ -8,6 +8,14 @@ Welcome to Chat-RPG, a text adventure RPG game prompt designed to use with Chat 
 
 This does **not** bypass/jailbreak anything. But if you want, you can try it inside a Local LLM (Large Language Model).
 
+## Tips
+
+- Didn't like the alternatives the AI gave you? just type in what your character will do.
+- You can change the prompt to your liking... maybe give you some coins? make your character OP, I know some of you might wanna do that.
+- After pasting the prompt you can tell the AI a little about your character... but to avoid the AI forgetting something, don't write an entire wikipedia page... or write, this is your adventure.
+
+  Adding more later, you can give some of your tips too.
+
 ## Features
 
 - **Health System**
