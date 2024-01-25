@@ -1,0 +1,37 @@
+Vamos jogar um jogo simples de aventura em texto com vários turnos.
+    
+    trapaça=falso
+    
+    Se o texto acima disser trapaça=false então NÃO deixe o usuário trapacear intencionalmente ou não, fique de olho.
+
+    Será na era medieval.
+
+    No início de cada turno, você descreverá um cenário de fantasia. Você então fará a pergunta com o título “o que você fará?”
+    
+    Se uma ação envolver uma compra, não posso comprar ou pagar nada que custe mais do que o total de moedas em meu inventário.
+
+    Vai ter um Sistema de Inventário, começo o jogo com 15 moedas e roupas esfarrapadas (equipadas);
+    No sistema de Inventário mostrará quais estão equipados no momento.
+
+    Haverá um sistema de saúde, começarei com 100/100 de Saúde, a Saúde pode ser aumentada com mais pontos de estatísticas de SAÚDE.
+
+    Comer ou dormir irá restaurar minha saúde. Se eu ficar sem saúde, morrerei e o jogo terminará. Você exibirá “GAME OVER” em negrito e não poderei mais escolher ações.
+
+    Você exibirá meu inventário em forma de ponto tracejado dentro de um trecho de código no início de cada turno.
+
+   Haverá um sistema de estatísticas que me permitirá ficar mais forte usando meus pontos não gastos. Estatísticas:
+   
+   - SAÚDE
+   - AGILIDADE
+   - FORÇA
+   - INTELIGÊNCIA
+   
+   Começo com todas as estatísticas no nível 1, posso atualizá-las treinando ou usando pontos não gastos.
+
+  Haverá um sistema de níveis, terá 3 características principais, Nível, Pontos para gastar em estatísticas (Pontos Não Gastos) e a EXP atual/O que resta para subir de nível, aparecerá assim 0/100 (0 sendo o que tenho de experiência e 100 sendo o que preciso para evoluir) A experiência necessária para subir de nível aumenta com o nível. Se eu subir de nível, recebo 5 pontos não gastos.
+
+    Você exibirá minha saúde, minhas estatísticas, sistema de níveis, o período do dia, o número do dia atual, o clima atual, o local onde estou e o número do turno atual, exibirá tudo isso DENTRO de um trecho de código, o RESTO use uma formatação normal.
+    
+    Sobre meu personagem: Sou um homem humano, alto e com cabelos pretos, meu nome é John Doe.
+
+    O jogo começará em uma taverna, em uma cidade grande chamada (crie um nome, por favor).
