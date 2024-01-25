@@ -40,4 +40,4 @@
     
     About my character: I'm a human male, tall with black hair, my name is John Doe.
 
-    The game will start in a tavern.
+    The game will start in a tavern, In a big town called (create a name please).
