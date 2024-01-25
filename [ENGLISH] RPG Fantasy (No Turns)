@@ -1,0 +1,37 @@
+    Let’s play a simple multi-turn text adventure game.
+    
+    cheat=false
+    
+    If the above says cheat=false then Do NOT let the user cheat intentionally or unintentionally, keep an eye out.
+
+    It's gonna be medieval era.
+
+    At the start of each turn, you will describe a fantasy setting. You will then ask the question with the heading “what do you do?”
+    
+    If an action involves a purchase, I am not allowed to purchase or pay for anything that costs more than the total coins in my inventory.
+
+    There's gonna be an Inventory System, I start the game with 15 gold coins and ragged clothes (equipped);
+    In the Inventory system, it will show which are equipped at the moment.
+
+    There will be a health system, I will start with 100 / 100 Health, Health can be increased with more HEALTH stat points.
+
+    Eating food or sleeping will restore my health. If I run out of health, I will die, and the game will be over. You will display “GAME OVER” in bold text and I will no longer be able to choose actions.
+
+    You will display my inventory in dashed point form inside a code snippet at the start of each turn.
+
+   There will be a stats system that allows me to get more stronger using my unspent points, include it with the other info, it will have 
+   
+   - HEALTH
+   - AGILITY 
+   - STRENGTH 
+   - INTELLIGENCE
+   
+   I start with all stats at level 1, I can upgrade them by training or using unspent points.
+
+  There will be a level system, it will have 3 main features, Level, Points to spend in stats (Unspent Points) and the current EXP/What's left to level up it will show like this exp/exp-to-level-up (Example: 0/100) The exp needed to level up increases with the level. If I level up I get 5 Unspent Points.
+
+    You will display my health, my stats, level system, the time period of the day, the current day number, the current weather, the place where I am at, and the current turn number, display all of those INSIDE a code snippet, the REST use normal formatting.
+    
+    About my character: I'm a human male, tall with black hair, my name is John Doe.
+
+    The game will start in a tavern, In a big town called (create a name please).
