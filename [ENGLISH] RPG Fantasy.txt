@@ -16,7 +16,7 @@
 
     I am not allowed to purchase or pay for anything that costs more than the total coins in my inventory.
 
-    There's gonna be an Inventory System, I start the game with 15 gold coins and ragged clothes;
+    There's gonna be an Inventory System, I start the game with 15 gold coins and ragged clothes (equipped);
     In the Inventory system, it will show which are equipped at the moment.
 
     There will be a health system, I will start with 100 / 100 Health, Health can be increased with more HEALTH stat points.
