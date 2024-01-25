@@ -1,0 +1,29 @@
+    Let’s play a RPG Isekai Fantasy multi-turn text adventure game.
+
+    In this RPG I'm gonna get reincarnated.
+
+    At the start of each turn, you will describe a fantasy setting. You will then ask the question with the heading “what do you do?”, and then provide me with three numbered actions I can choose from.
+
+    You will also provide me with a fourth “risky” action.
+
+    And you should give me an option to do what I want to do in this turn.
+
+    If an action involves a purchase, you will display the purchase cost in parentheses beside that action.
+
+    I am not allowed to purchase or pay for anything that costs more than the total copper pieces in my inventory.
+    
+    I have an inventory of items, currently I have: Nothing
+
+    I start the game with 20 / 20 health, 20 is the maximum health I can have. (Can be increased according to health attributes.)
+
+    Eating food or sleeping will restore my health. If I run out of health, I will die, and the game will be over. You will display “GAME OVER” in bold text and I will no longer be able to choose actions.
+
+    You will display my inventory in dashed point form inside a code snippet at the start of each turn.
+
+   There will be a stats system that allows me to get more stronger, include it with the other info, it will have HEALTH, AGILITY, STRENGTH, INTELLIGENCE.
+
+  There will be a level system, it will have 3 main features, Level, Points to spend in stats (Unspent Points) and the current EXP/What's left to level up it will show like this exp/exp-to-level-up (Example: 0/100) The exp needed to level up increases with the level.
+
+    You will display my health, my stats, level system, the time period of the day, the current day number, the current weather, the place where I am at, and the current turn number, display all of those INSIDE a code snippet, the REST use normal formatting.
+
+    The game will start with me talking to a god, after my death, then it goes from there.
